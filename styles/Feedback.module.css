@@ -1,0 +1,19 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.feedbackBody {
+  margin: 40px;
+  font-size: 40px;
+  font-weight: 600;
+  color: rgb(136, 70, 199);
+}
+
+.form {
+  font-size: 30px;
+  margin: 20px;
+  color: rgb(143, 107, 86);
+}
